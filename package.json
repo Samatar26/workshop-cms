@@ -1,0 +1,19 @@
+{
+  "name": "workshop-cms",
+  "version": "1.0.0",
+  "description": "nodegirls workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samatar26/workshop-cms.git"
+  },
+  "author": "Samatar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samatar26/workshop-cms/issues"
+  },
+  "homepage": "https://github.com/Samatar26/workshop-cms#readme"
+}
